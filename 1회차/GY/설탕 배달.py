@@ -1,6 +1,6 @@
 sugar = int(input())
 # 3KG만 사용해서 만들 수 있는 반복 횟수
-for i in range(sugar // 3 + 2):
+for i in range(sugar // 3 + 1):
     m = sugar
     # 입력값에서 3KG만 사용해서 만들 수 있는 반복 횟수를 빼 준다
     m -= 3 * i
