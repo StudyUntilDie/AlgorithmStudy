@@ -12,6 +12,6 @@ answer = []
 for i in range(p):
     temp += wait[i]
     answer.append(temp)
-
+ 
 # 정답 배열에 담긴 시간들을 더한다
 print(sum(answer))
