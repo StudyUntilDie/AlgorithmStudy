@@ -14,7 +14,6 @@ p.sort()
 
 time = 0
 for i in range(1, n+1):
-#     print('p[',(-i),']*',i)
     time += (p[-i]*i)
 
 print(time)
