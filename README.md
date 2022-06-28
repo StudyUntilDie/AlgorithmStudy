@@ -70,7 +70,7 @@
 
 | 회차   | 카테고리       | 문제1                                            | 문제2                                        | 문제3                                           | 진행 현황 |
 | ------ | -------------- | ------------------------------------------------ | -------------------------------------------- | ----------------------------------------------- | --------- |
-| 1 회차 | greedy         | [설탕배달](https://www.acmicpc.net/problem/2839) | [ATM](https://www.acmicpc.net/problem/11399) | [동전 0](https://www.acmicpc.net/problem/11047) | 진행 중   |
-| 2 회차 | implementation | -                                                | -                                            | -                                               | 진행 예정 |
+| 1 회차 | greedy         | [설탕배달](https://www.acmicpc.net/problem/2839) | [ATM](https://www.acmicpc.net/problem/11399) | [동전 0](https://www.acmicpc.net/problem/11047) | 진행 완료 |
+| 2 회차 | implementation | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189?language=python3) | [연구소](https://www.acmicpc.net/problem/14502) | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | 진행 중 |
 | 3 회차 | dfs/bfs        | -                                                | -                                            | -                                               | 진행 예정 |
 | 4 회차 | sort           | -                                                | -                                            | -                                               | 진행 예정 |
